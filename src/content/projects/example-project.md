@@ -1,7 +1,7 @@
 ---
 title: "Example Project"
 description: "A brief description of your project and what it accomplishes"
-category: "web-development"
+category: "frontend-development"
 tags: ["react", "typescript", "aws", "terraform"]
 status: "launched"
 version: "v1.0"
